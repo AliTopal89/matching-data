@@ -7,5 +7,5 @@ Rami used generatedata.com (I recommend anyone to play around with this website,
 In this matching data exercise I used IP[y]: Notebook. One important part of this exercise is the path of the data. 
 I wanted to share this example with the rest that is using IP[y]: Notebook. You can see how the code looks like in match-data.py
 
-Why I prefer IP[y]: Notebook is because the it is compatible with the terminal shell. Everytime you hit save you can see the same process on your terminal shell. Furthermore, when you make an error I think the way the error message is displayed is clearer. 
+Why I like IP[y]: Notebook is because it is compatible with the terminal shell (kind of like how github is) Everytime you hit save you can see the same process on your terminal shell. Furthermore, when you make an error I think the way the error message is displayed is clearer. 
 
